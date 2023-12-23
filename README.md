@@ -25,10 +25,10 @@
 ## 📈 Github Stats
 <div align="center">
   <a href="https://github.com/BeatrizIrineu/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BeatrizIrineu&theme=merko&show_icons=true&hide_border=false&count_private=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BeatrizIrineu&theme=dark&show_icons=true&hide_border=false&count_private=true" />
   </a>
-  <a href="https://github.com/NeiltonSeguins/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeatrizIrineu&layout=compact&langs_count=8&card_width=320&theme=merko" />
+  <a href="https://github.com/BeatrizIrineu/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeatrizIrineu&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
 </div>
 
